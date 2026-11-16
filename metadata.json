@@ -1,0 +1,6 @@
+{
+  "name": "TECHORA",
+  "description": "Multi-vendor local commerce platform connecting independent shops, sellers, and customers with full customization, payments, delivery tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
